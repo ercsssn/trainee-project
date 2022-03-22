@@ -33,7 +33,7 @@
 
     <div>
         <span>Not a member?</span>
-        <a href="register-page.html"><button class="signup">Sign Up</button></a>
+        <a href="register-page.php"><button class="signup">Sign Up</button></a>
 
     </div>
     
