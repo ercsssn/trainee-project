@@ -6,11 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sign Up Form</title>
+  <?php include "script.php"; ?>
   <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
+  <script src="script.js" defer></script>
 </head>
 
 <body>
+
     <table class="signup" border="0" cellpadding="2" cellspacing="5" bgcolor="#eeeeee">
         <th colspan="2" align="center">Signup Form</th>
             <form method="post" action="adduser.php" onsubmit="return validate(this)">
