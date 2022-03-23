@@ -1,4 +1,4 @@
 # trainee-project
- HiveLabs Training 
+ HiveLabs Trainee Portal
  
- Supervised by: Mr. Kent Dayrit (Dev Lead)
+ Supervised by: Mr. Kent Dayrit (Lead Dev)
