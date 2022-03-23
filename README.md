@@ -1,2 +1,4 @@
 # trainee-project
- HiveLabs Training lezz go
+ HiveLabs Training 
+ 
+ Supervised by: Mr. Kent Dayrit
