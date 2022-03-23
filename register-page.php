@@ -17,7 +17,7 @@
         <th colspan="2" align="center">Signup Form</th>
             <form method="post" action="adduser.php" onsubmit="return validate(this)">
                 <tr><td>First name</td>
-                    <td><input type="text" maxlength="32" name="forename"></td></tr>
+                    <td><input type="text" maxlength="32" name="firstname"></td></tr>
                 <tr><td>Surname</td>
                     <td><input type="text" maxlength="32" name="surname"></td></tr>
                 <tr><td>Username</td>

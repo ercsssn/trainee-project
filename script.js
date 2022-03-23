@@ -1,6 +1,6 @@
 function validate(form) 
 {
-    fail = validateForename(form.forename.value)
+    fail = validateFirstName(form.firstname.value)
     fail += validateSurname(form.surname.value)
     fail += validateUsername(form.username.value)
     fail += validatePassword(form.password.value)
@@ -12,9 +12,9 @@ function validate(form)
  }
 
 
-function validateForename(field) 
+function validateFirstName(field) 
 {
-    return (field == "") ? "No Forename was entered.\n" : ""
+    return (field == "") ? "No First name was entered.\n" : ""
 }
 
 
